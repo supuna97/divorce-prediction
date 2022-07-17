@@ -6,5 +6,5 @@ Machine learning application Devorce predit
 # Once the libraries have installed, type python app.py
 # Then the app server will be started.
 # To test, run this curl
-  postman -> http://localhost:5000/api/v1/divorce/prediction
+  postman -> http://127.0.0.1:5000/api/v1/divorce/predict
 
