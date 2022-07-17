@@ -6,5 +6,15 @@ Machine learning application Devorce predit
 # Once the libraries have installed, type python app.py
 # Then the app server will be started.
 # To test, run this curl
-  postman -> http://127.0.0.1:5000/api/v1/divorce/predict
+
+# linux or mac
+  curl -XPOST -H "Content-type: application/json" -d '[1, 1, 0, 0, 0, 1, 0, 0, 1, 2, 2, 2, 1, 0, 0, 1, 1, 0, 0, 0]' 'http://127.0.0.1:5000/api/v1/divorce/predict'
+
+# windows
+  curl -i -X POST -H "Content-Type:application/json" -d "[1, 1, 0, 0, 0, 1, 0, 0, 1, 2, 2, 2, 1, 0, 0, 1, 1, 0, 0, 0]" http://127.0.0.1:5000/api/v1/divorce/predict
+
+# postman 
+  url          - http://127.0.0.1:5000/api/v1/divorce/predict
+  method       - POST
+  request data - [0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1]
 
