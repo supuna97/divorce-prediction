@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 from sklearn.decomposition import PCA # Import PCA for Feature Reduction
 from sklearn.ensemble import RandomForestClassifier
+from xgboost import XGBRegressor
 import xgboost as xgb # Import XGboost Classifier
 
 import pickle

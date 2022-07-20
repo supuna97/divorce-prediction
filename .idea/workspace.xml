@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43f0b20b-fb1e-4514-8a97-11536e99067c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/devorce-prediction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09a4e53ab0e5e7637fd01136f19a9bb570e1ef2d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91e522be11677dbeaea3b85493b4868d2728cb6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd34dec7520a7acb6883aced77aaaa93699c86ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/app.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/app.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/warn-app.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/warn-app.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/xref-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/xref-app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Btgl7t24ib6lQ5hx02nMQ1HsUb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/ICBT/2nd Sem/Assignments/CI/WRIT1/project/divorce-prediction/app.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="devorce-prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Supun\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43f0b20b-fb1e-4514-8a97-11536e99067c" name="Changes" comment="" />
+      <created>1657730944475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657730944475</updated>
+      <workItem from="1657730948529" duration="2305000" />
+      <workItem from="1658048412093" duration="1073000" />
+      <workItem from="1658331164997" duration="6344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/divorce_prediction$app.coverage" NAME="app Coverage Results" MODIFIED="1658337844613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
