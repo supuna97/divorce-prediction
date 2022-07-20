@@ -4,6 +4,7 @@ from flask import request
 import pandas as pd
 import numpy as np
 from sklearn.decomposition import PCA # Import PCA for Feature Reduction
+from sklearn.ensemble import RandomForestClassifier
 import xgboost as xgb # Import XGboost Classifier
 
 import pickle
@@ -52,7 +53,7 @@ def hello_world():
 	prediction_result = int(prediction[0])
 	
 	return {
-		"has Divorce? ": prediction_result > 0
+		"Divorce? ": prediction_result > 0
 	}
 
 # Dimensionality reduction (reducing any less relavent columns)
